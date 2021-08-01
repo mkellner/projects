@@ -1,7 +1,7 @@
 import config from "mc/config";
 import {Request} from "http";
 
-const APPID = "9d759c76ce679d2eb222053eba8a5f9d";
+const APPID = "-- need the app id --";
 
 export class Weather {
 	#zip;
